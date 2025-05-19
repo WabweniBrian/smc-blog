@@ -82,7 +82,7 @@ export const timelineData = [
   {
     period: "16th April 2025 - 30th April 2025",
     title: "Testing and Validation",
-    completion: 85,
+    completion: 100,
     tasks: [
       "Conducted unit, integration, and system acceptance tests, achieving 100% coverage of safety-critical paths.",
       "Performed 72-hour stress tests and 50 staged crash simulations to verify crash detection and SMS delivery.",
@@ -100,7 +100,7 @@ export const timelineData = [
     ],
   },
   {
-    period: "17th May 2025 - 24th May 2025",
+    period: "19th May 2025 - 23rd May 2025",
     title: "Project Submission and Presentation",
     completion: 50,
     tasks: [
