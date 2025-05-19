@@ -92,7 +92,7 @@ export const timelineData = [
   {
     period: "1st May 2025 - 15th May 2025",
     title: "Documentation and Finalization",
-    completion: 80,
+    completion: 100,
     tasks: [
       "Compiled comprehensive documentation, including system architecture, hardware design, and user manuals.",
       "Prepared the project report for submission, detailing implementation, testing, and maintenance plans.",
@@ -102,7 +102,7 @@ export const timelineData = [
   {
     period: "17th May 2025 - 24th May 2025",
     title: "Project Submission and Presentation",
-    completion: 0,
+    completion: 50,
     tasks: [
       "Submitted the final project report to the School of Computing and Informatics Technology.",
       "Presented the Secure Motorcycle Companion to faculty and stakeholders, showcasing its impact on rider safety.",
