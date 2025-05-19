@@ -163,7 +163,7 @@ export const teamMembers = [
     id: "kisakye-martha",
     name: "Kisakye Martha",
     role: "Data & Analytics Lead",
-    image: "/martha.jpg",
+    image: "/martha.jpeg",
     bio: "Kisakye Martha is a motivated data engineer. She builds and maintains data pipelines, transforms raw data into structured formats, and supports analytics through clean, reliable datasets.",
     email: "mkisakye15@gmail.com",
     github: "https://github.com/MarthaKJ",
