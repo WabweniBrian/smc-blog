@@ -131,7 +131,7 @@ export const teamMembers = [
     id: "amale-frank",
     name: "Amale Frank",
     role: "Hardware Lead",
-    image: "/Frank.jpg",
+    image: "/frank.jpg",
     bio: "Amale Frank is a skilled hardware engineer with a passion for embedded systems. He designed and integrated hardware components, including ESP32 and Arduino Nano modules, and managed sensor calibration.",
     email: "frankamale5@gmail.com",
     github: "https://github.com/frankamale",
